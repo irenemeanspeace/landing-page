@@ -42,7 +42,7 @@ So this is the basic walk through:
 
 4. Activate wradlib environment
 
-    * Linux
+    * Linux/OSX
 
             :::bash
             $ source activate wradlib
